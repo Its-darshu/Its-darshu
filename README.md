@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<a href="https://www.youtube.com/@ZEROSUS-s7i">
+<a href="https://darsha.dev">
   <img src="https://raw.githubusercontent.com/Its-darshu/Its-darshu/refs/heads/main/LinkedIn%20cover%20-%201.svg" width="100%" alt="Matrix Animation"/>
 </a>
 
@@ -23,15 +23,13 @@ and turning ideas into reality.
 
 <p>
 
-<a href="https://github.com/ZERO-SUS">
+<a href="https://github.com/Its-darshu">
 <img src="https://img.shields.io/badge/GitHub-ZERO--SUS-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.youtube.com/@ZEROSUS-s7i">
-    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
 
-<a href="https://zero-sus.github.io/Profile/">
+
+<a href="https://darsha.dev">
 <img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
