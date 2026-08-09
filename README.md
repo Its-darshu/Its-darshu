@@ -41,3 +41,8 @@ and turning ideas into reality.
 > **"𝙄𝙛 𝙮𝙤𝙪𝙧 𝙢𝙞𝙣𝙙 𝙛𝙪𝙘𝙠𝙨 𝙮𝙤𝙪, 𝙩𝙝𝙚𝙣 𝙧𝙚𝙫𝙚𝙧𝙨𝙚-𝙛𝙪𝙘𝙠 𝙮𝙤𝙪𝙧 𝙢𝙞𝙣𝙙"**
 
 </div>
+
+---
+
+<!-- 3D contribution calendar (auto-generated daily by .github/workflows/profile-3d.yml) -->
+![](./profile-3d-contrib/profile-green-dual.svg)
