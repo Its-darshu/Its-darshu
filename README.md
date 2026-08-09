@@ -24,7 +24,7 @@ and turning ideas into reality.
 <p>
 
 <a href="https://github.com/Its-darshu">
-<img src="https://img.shields.io/badge/GitHub-ZERO--SUS-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-DARSHAN-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 
