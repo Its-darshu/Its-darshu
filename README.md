@@ -23,14 +23,11 @@ and turning ideas into reality.
 
 <p>
 
-<a href="https://github.com/Its-darshu">
-<img src="https://img.shields.io/badge/GitHub-DARSHAN-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 
 
 <a href="https://darsha.dev">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=blue"/>
 </a>
 
 </p>
