@@ -44,5 +44,14 @@ and turning ideas into reality.
 
 ---
 
+<!-- Skills -->
+<div align="center">
+
+![Skills](./skills.svg)
+
+</div>
+
+---
+
 <!-- 3D contribution calendar (auto-generated daily by .github/workflows/profile-3d.yml) -->
 ![](./profile-3d-contrib/profile-green-dual.svg)

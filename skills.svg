@@ -1,0 +1,77 @@
+<svg width="1150" height="455" viewBox="0 0 1150 455" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Consolas','Courier New',monospace">
+  <style>
+    .card { fill:#1c1c1e; stroke:#3a3a3a; stroke-width:1; }
+    .h    { font-weight:700; font-size:15px; fill:#eaeaea; }
+    .i    { font-size:12.5px; }
+    .b    { fill:#4493f8; }
+    .g    { fill:#d4d4d4; }
+    .sep  { stroke:#3a3a3a; stroke-width:1; }
+  </style>
+
+  <rect width="1150" height="455" fill="#1c1c1e"/>
+
+  <!-- Title -->
+  <text x="115" y="70" font-size="30" font-weight="700"><tspan fill="#4493f8">#</tspan><tspan fill="#ffffff">Skills</tspan></text>
+
+  <!-- ============ Languages ============ -->
+  <rect class="card" x="115" y="135" width="182" height="130"/>
+  <text class="h" x="130" y="162">Languages</text>
+  <line class="sep" x1="127" y1="175" x2="285" y2="175"/>
+  <text class="i" x="130" y="200"><tspan class="b">#</tspan><tspan class="g">TypeScript</tspan><tspan class="b">  #</tspan><tspan class="g">Lua</tspan></text>
+  <text class="i" x="130" y="225"><tspan class="b">#</tspan><tspan class="g">Python</tspan><tspan class="b">  #</tspan><tspan class="g">JavaScript</tspan></text>
+  <text class="i" x="130" y="250"><tspan class="b">#</tspan><tspan class="g">C</tspan></text>
+
+  <!-- ============ Other ============ -->
+  <rect class="card" x="115" y="280" width="182" height="105"/>
+  <text class="h" x="130" y="307">Other</text>
+  <line class="sep" x1="127" y1="320" x2="285" y2="320"/>
+  <text class="i" x="130" y="345"><tspan class="b">#</tspan><tspan class="g">HTML</tspan><tspan class="b">  #</tspan><tspan class="g">CSS</tspan><tspan class="b">  #</tspan><tspan class="g">REST</tspan></text>
+  <text class="i" x="130" y="370"><tspan class="b">#</tspan><tspan class="g">Jinja</tspan></text>
+
+  <!-- ============ Databases ============ -->
+  <rect class="card" x="313" y="135" width="187" height="105"/>
+  <text class="h" x="328" y="162">Databases</text>
+  <line class="sep" x1="325" y1="175" x2="488" y2="175"/>
+  <text class="i" x="328" y="200"><tspan class="b">#</tspan><tspan class="g">SQLite</tspan><tspan class="b">  #</tspan><tspan class="g">PostgreSQL</tspan></text>
+  <text class="i" x="328" y="225"><tspan class="b">#</tspan><tspan class="g">Mongo</tspan></text>
+
+  <!-- ============ Cloud & DevOps ============ -->
+  <rect class="card" x="313" y="255" width="187" height="180"/>
+  <text class="h" x="328" y="282">Cloud &amp; DevOps</text>
+  <line class="sep" x1="325" y1="295" x2="488" y2="295"/>
+  <text class="i" x="328" y="320"><tspan class="b">#</tspan><tspan class="g">AWS</tspan><tspan class="b">  #</tspan><tspan class="g">Vercel</tspan></text>
+  <text class="i" x="328" y="345"><tspan class="b">#</tspan><tspan class="g">Netlify</tspan><tspan class="b">  #</tspan><tspan class="g">Railway</tspan></text>
+  <text class="i" x="328" y="370"><tspan class="b">#</tspan><tspan class="g">Heroku</tspan></text>
+  <text class="i" x="328" y="395"><tspan class="b">#</tspan><tspan class="g">GitHub Actions</tspan></text>
+  <text class="i" x="328" y="420"><tspan class="b">#</tspan><tspan class="g">CI/CD</tspan><tspan class="b">  #</tspan><tspan class="g">Docker</tspan></text>
+
+  <!-- ============ Tools ============ -->
+  <rect class="card" x="518" y="135" width="382" height="255"/>
+  <text class="h" x="533" y="162">Tools</text>
+  <line class="sep" x1="530" y1="175" x2="888" y2="175"/>
+  <text class="i" x="533" y="200"><tspan class="b">#</tspan><tspan class="g">VSCode</tspan><tspan class="b">  #</tspan><tspan class="g">Neovim</tspan><tspan class="b">  #</tspan><tspan class="g">cursor</tspan><tspan class="b">  #</tspan><tspan class="g">Figma</tspan></text>
+  <text class="i" x="533" y="225"><tspan class="b">#</tspan><tspan class="g">firebase studio</tspan><tspan class="b">  #</tspan><tspan class="g">cloudflare</tspan><tspan class="b">  #</tspan><tspan class="g">Cohere</tspan><tspan class="b">  #</tspan><tspan class="g">Devin</tspan></text>
+  <text class="i" x="533" y="250"><tspan class="b">#</tspan><tspan class="g">Docker</tspan><tspan class="b">  #</tspan><tspan class="g">flowith</tspan><tspan class="b">  #</tspan><tspan class="g">Genspark</tspan></text>
+  <text class="i" x="533" y="275"><tspan class="b">#</tspan><tspan class="g">Google AI Studio</tspan><tspan class="b">  #</tspan><tspan class="g">Canva</tspan><tspan class="b">  #</tspan><tspan class="g">locofy</tspan><tspan class="b">  #</tspan><tspan class="g">Lovable</tspan></text>
+  <text class="i" x="533" y="300"><tspan class="b">#</tspan><tspan class="g">Perplexity</tspan><tspan class="b">  #</tspan><tspan class="g">Phase</tspan><tspan class="b">  #</tspan><tspan class="g">Phind</tspan><tspan class="b">  #</tspan><tspan class="g">bolt.new</tspan><tspan class="b">  #</tspan><tspan class="g">Phase</tspan></text>
+  <text class="i" x="533" y="325"><tspan class="b">#</tspan><tspan class="g">PostHog</tspan><tspan class="b">  #</tspan><tspan class="g">replit</tspan><tspan class="b">  #</tspan><tspan class="g">Rocket</tspan><tspan class="b">  #</tspan><tspan class="g">stackblitz</tspan></text>
+  <text class="i" x="533" y="350"><tspan class="b">#</tspan><tspan class="g">webcontainers</tspan><tspan class="b">  #</tspan><tspan class="g">Ollama</tspan><tspan class="b">  #</tspan><tspan class="g">n8n</tspan><tspan class="b">  #</tspan><tspan class="g">Automa</tspan><tspan class="b">  #</tspan><tspan class="g">GitLab</tspan></text>
+  <text class="i" x="533" y="375"><tspan class="b">#</tspan><tspan class="g">Directus</tspan></text>
+
+  <!-- ============ Frameworks ============ -->
+  <rect class="card" x="920" y="135" width="183" height="105"/>
+  <text class="h" x="935" y="162">Frameworks</text>
+  <line class="sep" x1="932" y1="175" x2="1091" y2="175"/>
+  <text class="i" x="935" y="200"><tspan class="b">#</tspan><tspan class="g">React</tspan><tspan class="b">  #</tspan><tspan class="g">Vue</tspan><tspan class="b">  #</tspan><tspan class="g">flask</tspan></text>
+  <text class="i" x="935" y="225"><tspan class="b">#</tspan><tspan class="g">FastAPI</tspan></text>
+
+  <!-- ============ Design & UI/UX ============ -->
+  <rect class="card" x="920" y="255" width="183" height="180"/>
+  <text class="h" x="935" y="282">Design &amp; UI/UX</text>
+  <line class="sep" x1="932" y1="295" x2="1091" y2="295"/>
+  <text class="i" x="935" y="320"><tspan class="b">#</tspan><tspan class="g">Figma</tspan></text>
+  <text class="i" x="935" y="345"><tspan class="b">#</tspan><tspan class="g">Tailwind CSS</tspan></text>
+  <text class="i" x="935" y="370"><tspan class="b">#</tspan><tspan class="g">Material-UI</tspan></text>
+  <text class="i" x="935" y="395"><tspan class="b">#</tspan><tspan class="g">Responsive Design</tspan></text>
+  <text class="i" x="935" y="420"><tspan class="b">#</tspan><tspan class="g">Adobe XD</tspan><tspan class="b">  #</tspan><tspan class="g">Canva</tspan></text>
+</svg>
