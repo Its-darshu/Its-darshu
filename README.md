@@ -14,7 +14,7 @@
 
 
 
-### Graphic Designer • Programmer • Front-End Developer
+### Full Stack Developer • Graphic Designer • Programmer • Front-End Developer
 
 <p>
 Building modern applications, creating clean UI, learning Cyber Security,
