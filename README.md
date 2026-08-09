@@ -39,7 +39,7 @@ and turning ideas into reality.
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub.;Full+Stack+Developer.;Backend+Developer.;Frontend+Developer.;Cyber+Security+Enthusiast.;Graphic+Designer.;C%2B%2B+Learner.;Always+Learning+Something+New." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub.;Full+Stack+Developer.;Backend+Developer.;Frontend+Developer.;Cyber+Security+Enthusiast.;Graphic+Designer.;UI-UX+Designer.;Always+Learning+Something+New." alt="Typing SVG" />
 
 ---
 
