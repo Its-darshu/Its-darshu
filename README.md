@@ -27,7 +27,7 @@ and turning ideas into reality.
 
 
 <a href="https://darsha.dev">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=vercel&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-0A0A0A?style=for-the-badge&logo=circle&logoColor=blue"/>
 </a>
 
 </p>
