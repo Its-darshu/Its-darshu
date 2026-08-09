@@ -44,10 +44,34 @@ and turning ideas into reality.
 
 ---
 
-<!-- Skills -->
+<!-- ========================================================= -->
+<!--                        SKILLS                             -->
+<!-- ========================================================= -->
+
+<h2 align="center">🧊 Skills</h2>
+
 <div align="center">
 
-![Skills](./skills.svg)
+<p><b>Languages</b><br>
+<code>#TypeScript</code> <code>#Lua</code> <code>#Python</code> <code>#JavaScript</code> <code>#C</code></p>
+
+<p><b>Frameworks</b><br>
+<code>#React</code> <code>#Vue</code> <code>#flask</code> <code>#FastAPI</code></p>
+
+<p><b>Databases</b><br>
+<code>#SQLite</code> <code>#PostgreSQL</code> <code>#Mongo</code></p>
+
+<p><b>Tools</b><br>
+<code>#VSCode</code> <code>#Neovim</code> <code>#cursor</code> <code>#Figma</code> <code>#firebase-studio</code> <code>#cloudflare</code> <code>#Cohere</code> <code>#Devin</code> <code>#Docker</code> <code>#flowith</code> <code>#Genspark</code> <code>#Google-AI-Studio</code> <code>#Canva</code> <code>#locofy</code> <code>#Lovable</code> <code>#Perplexity</code> <code>#Phase</code> <code>#Phind</code> <code>#bolt.new</code> <code>#PostHog</code> <code>#replit</code> <code>#Rocket</code> <code>#stackblitz</code> <code>#webcontainers</code> <code>#Ollama</code> <code>#n8n</code> <code>#Automa</code> <code>#GitLab</code> <code>#Directus</code></p>
+
+<p><b>Cloud &amp; DevOps</b><br>
+<code>#AWS</code> <code>#Vercel</code> <code>#Netlify</code> <code>#Railway</code> <code>#Heroku</code> <code>#GitHub-Actions</code> <code>#CI/CD</code> <code>#Docker</code></p>
+
+<p><b>Design &amp; UI/UX</b><br>
+<code>#Figma</code> <code>#Tailwind-CSS</code> <code>#Material-UI</code> <code>#Responsive-Design</code> <code>#Adobe-XD</code> <code>#Canva</code></p>
+
+<p><b>Other</b><br>
+<code>#HTML</code> <code>#CSS</code> <code>#REST</code> <code>#Jinja</code></p>
 
 </div>
 
