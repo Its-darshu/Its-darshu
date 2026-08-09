@@ -12,8 +12,13 @@
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Its--darshu-050505?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Its-darshu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-its--darshu-050505?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com)
+<a href="https://github.com/Its-darshu">
+<img src="https://img.shields.io/badge/GitHub-Its--darshu-050505?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-050505?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </div>
 
@@ -24,7 +29,7 @@
 
 <td width="25%" valign="top">
 
-## ⚡ ZERO SUS
+## 👤 ABOUT ME
 
 ```text
 > system      :: online
