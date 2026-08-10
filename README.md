@@ -5,7 +5,11 @@
 <div align="center">
 
 <a href="https://darsha.dev">
-  <img src="https://raw.githubusercontent.com/Its-darshu/Its-darshu/refs/heads/main/LinkedIn%20cover%20-%201.svg" width="100%" alt="Matrix Animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Its-darshu/Its-darshu/refs/heads/main/LinkedIn%20cover%20-%201.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Its-darshu/Its-darshu/refs/heads/main/white%20theme.svg">
+    <img src="https://raw.githubusercontent.com/Its-darshu/Its-darshu/refs/heads/main/LinkedIn%20cover%20-%201.svg" width="100%" alt="Matrix Animation"/>
+  </picture>
 </a>
 
 <br><br>
