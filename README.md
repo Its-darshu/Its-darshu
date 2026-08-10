@@ -95,5 +95,11 @@ and turning ideas into reality.
 
 ---
 
+<div align="center">
+
 <!-- 3D contribution calendar (auto-generated daily by .github/workflows/profile-3d.yml) -->
-![](./profile-3d-contrib/profile-green-dual.svg)
+<a href="https://github.com/Its-darshu">
+  <img src="./profile-3d-contrib/profile-green-dual.svg" width="100%" alt="Its-darshu 3D Contribution Graph" />
+</a>
+
+</div>
