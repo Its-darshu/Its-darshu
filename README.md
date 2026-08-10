@@ -93,13 +93,4 @@ and turning ideas into reality.
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
----
 
-<div align="center">
-
-<!-- 3D contribution calendar (auto-generated daily by .github/workflows/profile-3d.yml) -->
-<a href="https://github.com/Its-darshu">
-  <img src="./profile-3d-contrib/profile-green-dual.svg" width="100%" alt="Its-darshu 3D Contribution Graph" />
-</a>
-
-</div>
