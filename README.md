@@ -143,5 +143,5 @@ and turning ideas into reality.
 
 ---
 
-<!-- 3D contribution calendar (auto-generated daily by .github/workflows/profile-3d.yml) -->
+<!-- 3D contribution calendar (auto-generated hourly by .github/workflows/profile-3d.yml) -->
 ![](./profile-3d-contrib/profile-green-dual.svg)
