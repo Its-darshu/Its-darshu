@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://darsha.dev">
-  <img src="https://raw.githubusercontent.com/Its-darshu/Its-darshu/refs/heads/main/LinkedIn%20cover%20-%201.svg" width="100%" alt="Matrix Animation"/>
+  <img src="https://raw.githubusercontent.com/Its-darshu/Its-darshu/refs/heads/main/LinkedIn%20cover%20-%201.svg?v=2" width="100%" alt="Matrix Animation"/>
 </a>
 
 <br><br>
