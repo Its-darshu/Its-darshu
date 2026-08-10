@@ -5,7 +5,11 @@
 <div align="center">
 
 <a href="https://darsha.dev">
-  <img src="https://raw.githubusercontent.com/Its-darshu/Its-darshu/refs/heads/main/LinkedIn%20cover%20-%201.svg?v=2" width="100%" alt="Matrix Animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+    <img src="./assets/light.svg" width="100%" alt="DARSHAN profile banner">
+  </picture>
 </a>
 
 <br><br>
