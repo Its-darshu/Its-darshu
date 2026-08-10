@@ -5,11 +5,7 @@
 <div align="center">
 
 <a href="https://darsha.dev">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Its-darshu/Its-darshu/refs/heads/main/LinkedIn%20cover%20-%201.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Its-darshu/Its-darshu/refs/heads/main/white%20theme.svg">
-    <img src="https://raw.githubusercontent.com/Its-darshu/Its-darshu/refs/heads/main/LinkedIn%20cover%20-%201.svg" width="100%" alt="Matrix Animation"/>
-  </picture>
+  <img src="https://raw.githubusercontent.com/Its-darshu/Its-darshu/refs/heads/main/LinkedIn%20cover%20-%201.svg" width="100%" alt="Matrix Animation"/>
 </a>
 
 <br><br>
@@ -143,5 +139,5 @@ and turning ideas into reality.
 
 ---
 
-<!-- 3D contribution calendar (auto-generated hourly by .github/workflows/profile-3d.yml) -->
+<!-- 3D contribution calendar (auto-generated daily by .github/workflows/profile-3d.yml) -->
 ![](./profile-3d-contrib/profile-green-dual.svg)
